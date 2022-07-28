@@ -1,0 +1,10 @@
+/* working section style */
+.working-img {
+    height: 450px;
+    width: 410px;
+    margin-bottom: 20px;
+}
+
+.working-section {
+    background-color: #c7c9ca;
+}
