@@ -1,3 +1,7 @@
+.caro-img {
+    filter: brightness(50%);
+}
+
 /* working section style */
 .working-img {
     height: 450px;
